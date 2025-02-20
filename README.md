@@ -22,3 +22,4 @@ curl -X POST "http://<lnpr_api>:8001/alpr/" -H "Content-Type: application/json" 
 
 # Example Result from API
 ![image](https://github.com/user-attachments/assets/57b1cb34-38c2-4341-b54f-4dbf8283d155)
+![image](https://github.com/user-attachments/assets/06d5938a-80a3-498f-9944-355f34cd7cf8)
